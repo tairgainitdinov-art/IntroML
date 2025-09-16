@@ -1,2 +1,2 @@
 # IntroML
-Example repository for machine learning course for students
+A sample repository for a student machine learning course.
